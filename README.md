@@ -72,4 +72,4 @@ This dashboard is a part of my **Power BI Portfolio** to showcase practical skil
 
 ### 📸 Preview
 
-![Ecommerce Dashboard](Ecommerse%20Sales%20Dashboard.png)
+![Ecommerce Dashboard](https://github.com/Sharvarideshmukh14/Ecommerce-Sales-Dashboard/blob/main/Ecommerse%20Dashboard.png)
