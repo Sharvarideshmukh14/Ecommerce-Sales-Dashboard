@@ -73,8 +73,3 @@ This dashboard is a part of my **Power BI Portfolio** to showcase practical skil
 ### 📸 Preview
 
 ![Ecommerce Dashboard](Ecommerse%20Sales%20Dashboard.png)
-
----
-
-Let me know if you’d like a ready-made `README.md` file or markdown download version for GitHub!
-# Ecommerce-Sales-Dashboard
